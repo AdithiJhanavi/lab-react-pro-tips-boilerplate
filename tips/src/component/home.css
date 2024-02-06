@@ -12,6 +12,7 @@ body {
   width: 360px;
   background-color: white;
   padding: 10px;
+  margin-right: 330px;
 }
 
 .register {
@@ -41,7 +42,7 @@ span {
 }
 
 input {
-  background: #000000;
+  background: #b88888;
   color: #f4f4f4;
 }
 
@@ -51,11 +52,7 @@ input {
 }
 
 button {
-  background: #000000;
+  background: #d68888;
   color: white;
   cursor: pointer;
-}
-
-button:disabled {
-  cursor: default;
 }
